@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"徐小龙与大表哥");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
