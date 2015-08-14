@@ -22,6 +22,7 @@
     NSLog(@"000000");
     NSLog(@"11.com");
     NSLog(@"李四");
+    NSLog(@"张三");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
